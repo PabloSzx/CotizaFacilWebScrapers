@@ -37,3 +37,17 @@ console.log(aqui_va_la_data_que_quieren_imprimir);
 ---
 
 Recuerden que el inspector de su navegador es su mejor amigo, lo que deben hacer es buscar los elementos dentro del html que vean del inspector, y reconocer patrones, como las clases o IDs (_los #_)
+
+---
+
+## Documentación de referencia
+
+### [X-RAY](https://github.com/matthewmueller/x-ray#readme)
+
+### [Ejemplos X-RAY](https://github.com/matthewmueller/x-ray#examples)
+
+### [Cheerio](https://github.com/cheeriojs/cheerio#api)
+
+### [JSDOM](https://github.com/jsdom/jsdom#basic-usage)
+
+### [puppeteer](https://github.com/GoogleChrome/puppeteer#getting-started)
